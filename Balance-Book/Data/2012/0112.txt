@@ -1,0 +1,83 @@
+120
+January 2012
+------------
+Start:  $ 1895.00
+
+Actual Income
+-------------
+
+Current Balance
+***************
+Total	 = $ 1895.00
+Bank1	 = $ 1250.00
+Bank2	 = $ 0600.00
+Cash	 = $ 0050.00
+CreditCard	 = $ -0030.00
+GiftCard	 = $ 0025.00
+
+Payments
+********
+
+Total Paid Payments =   $ 0000.00 [$ 000.00 ]
+Total Unpaid Payments = $ 0000.00
+Total Payments =        $ 0000.00 [$ 000.00 ]
+Total Monthly =         $ 1895.00
+
+
+Actual Expenses
+---------------
+
+Total Actual Paid Expenses =   $ 0000.00 [$ 0000.00 ]
+Total Actual Unpaid Expenses = $ 0000.00
+Total Actual Expenses =        $ 0000.00 [$ 0000.00 ]
+
+
+Monthly Expenses
+----------------
+
+Total Monthly Expenses =  $ 0000.00
+Total Leftover Expenses = $ 0000.00
+
+Total Current Paid Expenses =   $ 0000.00 [$ 0000.00 ]
+Total Current Unpaid Expenses = $ 0000.00
+Total Current Expenses =        $ 0000.00 [$ 0000.00 ]
+
+Difference =                    $ 0000.00 [$ 0000.00 ]
+Leftover =                      $ 1895.00
+Accuracy =                      $ 0000.00
+
+
+Future Expenses
+---------------
+
+Total Savings =         $ 0000.00
+Total Monthly Savings = $ 0000.00
+
+Total Current Expenses and Savings = $ 0000.00
+
+Difference 2 =   $ 0000.00
+Usable Balance = $ 1895.00
+Leftover 2 =     $ 1895.00
+
+0
+Stats
+*****
+Current Expenses:
+[Entertainment] $ 0000.00
+[Supplies]      $ 0000.00
+[Food]          $ 0000.00
+[Bills]         $ 0000.00
+[Vehicle]       $ 0000.00
+[Gift]          $ 0000.00
+[Transfer]      $ 0000.00
+[Savings]       $ 0000.00
+[Non-Savings]   $ 0000.00
+
+General Expenses:
+[Entertainment] $ 0000.00
+[Supplies]      $ 0000.00
+[Food]          $ 0000.00
+[Bills]         $ 0000.00
+[Vehicle]       $ 0000.00
+[Savings]       $ 0000.00
+[Non-Savings]   $ 0000.00
